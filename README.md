@@ -1,18 +1,10 @@
 # 🌟 KATAMARI ADVENTURE 🌟
 
-<div align="center">
-  <img src="https://i.imgur.com/placeholder.png" alt="Katamari Adventure Logo" width="300">
-  <br>
-  <em>Roll, Grow, Conquer!</em>
-</div>
 
 ## 🎮 About The Game
 
 **Katamari Adventure** is an exciting physics-based game inspired by the cult classic Katamari Damacy. Control a sticky ball that grows by absorbing smaller objects while avoiding larger ones. Navigate through five challenging levels with increasing difficulty, collect power-ups, and become the biggest katamari in town!
 
-<div align="center">
-  <img src="https://i.imgur.com/placeholder2.png" alt="Gameplay Screenshot" width="600">
-</div>
 
 ## ✨ Features
 
@@ -52,20 +44,13 @@
    ```
 3. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/katamari-adventure.git
+   git clone https://github.com/VedicGoyal/Amazon-Q-CLI-Challenge
    ```
 4. Run the game:
    ```bash
    cd katamari-adventure
    python katamari_game.py
    ```
-
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="https://i.imgur.com/placeholder3.png" alt="Screenshot 1" width="400">
-  <img src="https://i.imgur.com/placeholder4.png" alt="Screenshot 2" width="400">
-</div>
 
 ## 🔊 Sound Credits
 
@@ -89,6 +74,6 @@ All sound effects are procedurally generated using NumPy.
 ---
 
 <div align="center">
-  <p>Created with ❤️ by [Your Name]</p>
+  <p>Created by Vedic Goyal</p>
   <p>Inspired by Namco's Katamari Damacy</p>
 </div>
