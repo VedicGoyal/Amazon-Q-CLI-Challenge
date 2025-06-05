@@ -1,0 +1,15 @@
+🌟 KATAMARI ADVENTURE 🌟
+
+Roll, Grow, Conquer! A physics-based Katamari Damacy-inspired game where you control a sticky ball that absorbs smaller objects and grows larger. Navigate through five challenging levels, collect power-ups with special abilities, and become the biggest katamari in town!
+
+Features:
+• Physics-based movement with momentum and inertia
+• 5 progressive levels with increasing difficulty
+• 4 unique power-ups: Speed Boost, Magnet, Invincibility, and Growth Multiplier
+• Dynamic environment with animated objects and particle effects
+• Fullscreen support with responsive UI
+• Custom procedurally generated sound effects
+
+Built with Python and Pygame, this game offers an addictive gameplay experience that's easy to learn but challenging to master. Perfect for casual gaming sessions or speedrun challenges!
+
+#GameDev #Python #Pygame #IndieGame #KatamariDamacy
